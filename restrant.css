@@ -1,0 +1,30 @@
+body    {
+	background-image: url("download (4).jfif");
+}
+#picz 	{
+	text-align: center;
+}
+#tablets{
+	border-color: white;
+	border-width: thick;
+}
+th		{
+	color: yellow;
+	font-size: 20px;
+	font-weight: bold;
+}
+td			{
+	font-family: Arial, sans-serif;
+}
+#pis		{
+	color: indianred;
+	font-style: italic;
+	font-weight: bold;
+}
+td		{
+	color: white;
+	text-align: center;
+}
+p   	{
+	color: white;
+}
